@@ -16,7 +16,7 @@ tiếp theo là ul, li
 
 đây là `git bash`
 ```js
-const a = 100
+const a = 10
 ```
 | Header1   | Header2 |
 |-|-|
